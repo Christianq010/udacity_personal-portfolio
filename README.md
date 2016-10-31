@@ -18,3 +18,6 @@ One of the longest sections in the course
 Use the course material and other Front-End Web Resources to best try and recreate the mock-up with a few custom design aspects of my own.
 Implemented a custom Modal on the cards , that displays a high quality image depending on the device used to view the website.
 Design inspired by Google Material Design.  
+
+## Notice
+Weloveiconfonts doesn't load over HTTPS, therefore when hosted and previewed on Github Pages it doesn't appear.
