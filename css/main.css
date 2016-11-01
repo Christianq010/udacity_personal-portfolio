@@ -72,13 +72,39 @@ a,
 
 /*********************** Footer Contents ***********************/
 
-[class*="brandico-"]:before,
-[class*="zocial-"]:before {
-    font-family: 'zocial','brandico', sans-serif;
+.icon-google3:before {
+    content: "\ea8a";
     display: inline-block;
     color: #eae9e8;
     width: 1.8em;
-    font-size: 1.2em;
+    font-size: 1.4em;
+    margin: 0 1.8em 0 0;
+}
+
+.icon-facebook2:before {
+    content: "\ea91";
+    display: inline-block;
+    color: #eae9e8;
+    width: 1.8em;
+    font-size: 1.4em;
+    margin: 0 1.8em 0 0;
+}
+
+.icon-github:before {
+    content: "\eab0";
+    display: inline-block;
+    color: #eae9e8;
+    width: 1.8em;
+    font-size: 1.4em;
+    margin: 0 1.8em 0 0;
+}
+
+.icon-linkedin:before {
+    content: "\eac9";
+    display: inline-block;
+    color: #eae9e8;
+    width: 1.8em;
+    font-size: 1.4em;
     margin: 0 1.8em 0 0;
 }
 
