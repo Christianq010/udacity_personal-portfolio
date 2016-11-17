@@ -19,5 +19,5 @@ Use the course material and other Front-End Web Resources to best try and recrea
 Implemented a custom Modal on the cards , that displays a high quality image depending on the device used to view the website.
 Design inspired by Google Material Design.  
 
-## Notice
-Weloveiconfonts doesn't load over HTTPS, therefore when hosted and previewed on Github Pages it doesn't appear.
+## Hosted on Github Pages - 
+https://christianq010.github.io/udacity_personal-portfolio/
